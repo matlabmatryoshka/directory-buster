@@ -1,0 +1,14 @@
+admin
+login
+dashboard
+uploads
+images
+css
+js
+hidden
+password
+email
+phone number
+address
+name
+surname
